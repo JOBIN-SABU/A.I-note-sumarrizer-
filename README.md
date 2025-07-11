@@ -30,10 +30,4 @@ A smart document analysis tool built for hackathons, allowing users to **upload 
 
 ---
 
-## 🛠️ Installation & Setup
 
-### 🔃 Clone the repository
-
-```bash
-git clone https://github.com/JOBIN-SABU/your-repo-name.git
-cd your-repo-name
